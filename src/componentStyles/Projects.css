@@ -1,0 +1,61 @@
+.projects{
+    height:100%;
+    width: 85%;
+    max-width: 85%;
+    background-color: #D6FDFF;
+    font-family: 'Indie Flower', cursive;
+    padding: 0 8.7%;
+    border-left: 0.5px solid #8A8A8A;
+    position: relative;
+}
+.projects-title{
+    text-align: left;
+    margin:0px;
+}
+
+.projects-title p{
+    font-size: 48px;
+    margin: 0px;
+    margin-top: 30px;
+}
+.software-button{
+    background-color: #FF9999;
+    height: 60px;
+    width: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 50px;
+    cursor: pointer;
+
+}
+.hardware-button{
+    background-color: #A7FF99;
+    height: 60px;
+    width: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 50px;
+    cursor: pointer;
+
+}
+.button-div{
+    display: flex;
+    justify-content: center;
+    font-size: 32px;
+}
+.gigglyPsyduck{
+    position: absolute;
+    top:0px;
+    right:50px;
+    height: 180px;
+    width: 130px;
+}
+.projects-container{
+    overflow: scroll;
+}
+
+.selected{
+    border:5px solid black;
+}

@@ -1,0 +1,18 @@
+.Project{
+    margin:50px 0px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    padding:0px 50px;
+}
+.software{
+    background-color: #FF9999;
+}
+.hardware{
+    background-color: #A7FF99;
+}
+.project-image{
+    width: 45%;
+    height:90%;
+    margin-right:50px;
+}

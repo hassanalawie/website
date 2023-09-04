@@ -1,0 +1,42 @@
+.contact{
+    width: 85%;
+    max-width: 85%;
+    background-color: #D9FFD6;
+    font-family: 'Indie Flower', cursive;
+    padding: 0 8.7%;
+    border-left: 0.5px solid #8A8A8A;
+}
+.contact-title{
+    text-align: left;
+    margin:0px;
+}
+
+.contact-title p{
+    font-size: 48px;
+    margin: 0px;
+    margin-top: 30px;
+}
+.contact-and-image{
+    height: 100%;
+    display:flex;
+    align-items:flex-start;
+    margin-top:50px;
+}
+.jumping-psyduck{
+    width:50%;
+}
+.contact-type{
+    font-size: 38px;
+    text-decoration: underline;
+    margin:0px;
+}
+.contacts-div{
+    width:50%;
+    text-align: left;
+    margin-left: 100px;
+}
+.contact-type-info{
+    margin:0px;
+    font-size: 30px;
+    margin-bottom: 20px;
+}

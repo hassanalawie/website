@@ -1,0 +1,58 @@
+.about-me{
+    width: 85%;
+    background-color: #FDFFB1;
+    font-family: 'Indie Flower', cursive;
+    text-align: left;
+    border-left: 1px solid #8A8A8A;
+}
+
+.text-image-container{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 0px 8.2%;
+}
+.about-title{
+    padding: 0px 8.2%;
+    font-size: 48px;
+    margin-bottom: 0px;
+    padding-right: 10px;
+    margin-top: 0px;
+}
+.subtitle{
+    font-size: 24px;
+    margin: 0px;
+}
+.text{
+    width:70%;
+    font-size: 16px;
+    margin:0px;
+}
+.image{
+    width:30%;
+}   
+
+.title-div{
+    display: flex ;
+    align-items: center;
+    margin-top: 30px;
+}
+.explain-text{
+    margin-left: 20px;
+    margin-top: 0px;
+}
+
+.overall-col{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.info-col{
+    width:60%;
+}
+.me-image{
+    width:26%;
+}
+.me-ac-image{
+    max-width: 100%;
+}

@@ -1,0 +1,27 @@
+.front-card{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    cursor: pointer;
+    height:145px;
+    width:110px;
+    padding:10px;
+    border-radius: 10px;
+}
+.back-card{
+    display:flex;
+    flex-direction: column;
+    background-color: white;
+    cursor: pointer;
+    height:145px;
+    width:110px;
+    padding:10px;
+    border-radius: 10px;
+}
+
+.front-card img{
+   max-width:75%;
+   max-height:50%;
+}
+
