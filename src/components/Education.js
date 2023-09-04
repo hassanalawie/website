@@ -9,6 +9,7 @@ function Education() {
     const [redHover, setRedHover]=useState(false);
     const [blueHover, setBlueHover]=useState(false);
     const [yellowHover, setYellowHover]=useState(false);
+    console.log(redHover && blueHover && yellowHover)
     return (
     <div className="education">
         <img className="stress-psyduck" src={stressPsyduck} />
